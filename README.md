@@ -9,10 +9,12 @@ Created this project using HTML and external CSS.
 5. Performance: Websites built with HTML and CSS tend to have better performance as compared to those built with heavy frameworks or content management systems (CMS). This is because the code is lightweight, resulting in faster loading times.
 6. SEO Friendliness: HTML and CSS allow you to structure your web pages in a way that search engines can easily understand and index. This contributes to better search engine optimization (SEO) and improved visibility in search results.
 
+
 -> Negatives of a Web Design Agency Project made with HTML and CSS:
 1. Complexity: While HTML and CSS are relatively easy to learn, complex designs and advanced functionalities may require additional knowledge and expertise. Building more intricate features may require JavaScript or other programming languages.
 2. Time-consuming: Creating a web design agency project solely with HTML and CSS can be time-consuming, especially for complex websites. Designing and coding each element from scratch can take more time than using pre-built templates or CMS platforms.
 3. Maintenance: Websites built purely with HTML and CSS may require manual updates and maintenance. Making changes to the design or structure of the site can be labor-intensive, especially as the website scales and evolves over time.
+
 
 
 -> It's important to note that HTML and CSS are the foundational technologies for web design, but depending on the requirements of your project, you may need to incorporate other technologies and programming languages to achieve specific functionalities or dynamic features.
