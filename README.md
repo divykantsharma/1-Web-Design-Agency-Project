@@ -1,4 +1,4 @@
-# 1.-Web-Design-Agency-Project
+# 1-Web-Design-Agency-Project
 Created this project using HTML and external CSS.
 
 -> Uses of a Web Design Agency Project :
